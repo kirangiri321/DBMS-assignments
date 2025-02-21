@@ -1,7 +1,5 @@
 # DBMS-assignments
 
-# DBMS_Assignments
-
 Lab Practical Question:
 1.	(Exercise: retrieve the records from the table) EMPLOYEES (Employee_Id, First_Name, Last_Name, Email, Phone_Number, Hire_Date, Job_Id, Salary, Commission_Pct, Manager_Id, Department_Id)<br>
  a.	create an employee’s table with the following fields: (Emp_id, First_name, Last_name, Phone_No,Hire_date,Job_id,Emp_Salary,Comission_Pct,manager _id,Department_id)<br>
